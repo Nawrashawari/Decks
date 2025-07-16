@@ -119,7 +119,7 @@ let blackCardResponses = [
 
 ## **Deck Links**
 
-[My Ultimate deck](https://raw.githubusercontent.com/Nawrashawari/Decks/refs/heads/main/Ultimate.deck)
+[My Ultimate deck](https://raw.githubusercontent.com/Nawrashawari/Decks/refs/heads/main/Ultimate.deck) : Over 15000 cards of complete chaos!
 
 ---
 
